@@ -1,7 +1,7 @@
 # LaunchCTR
 client/mod-launcher for Crash Team Racing (1999)
 
-# In-Progeress
+# In-Progress
 - animation logic
 - prep for python conversion
 
